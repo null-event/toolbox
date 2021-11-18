@@ -1,4 +1,4 @@
-<h1 align="center">Moar Scripts</h1>
+<h1 align="center">Scripts</h1>
 
 <p align="center"><This is where I stick useful scripts...</p>
 
@@ -16,23 +16,17 @@
 
 ![](/screenshots/3.png)
 
-## Available Commands
-
-In the project directory, you can run:
-
-### `npm start" : "react-scripts start"`,
-
 ## Built With
 
 - Little bit of everything, mostly python though.
 
 ## Future Updates
 
-- [ ] Add moar scripts
+- [ ] Add more scripts
 
 ## Author
 
-**Rohit Jain**
+**Paul Finger**
 
 - [Profile](https://github.com/t00r0/ "Paul Finger")
 - [Email](mailto:paulmfinger@gmail.com?subject=Hi "Hi!")

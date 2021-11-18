@@ -1,6 +1,6 @@
 <h1 align="center">Toolbox</h1>
 
-<p align="center"><This is where I stick useful scripts and custom code that's sufficiently portable</p>
+<p align="center">This is where I stick useful scripts and custom code that's sufficiently portable</p>
 
 ## Links
 

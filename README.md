@@ -1,10 +1,10 @@
-<h1 align="center">Scripts</h1>
+<h1 align="center">Toolbox</h1>
 
-<p align="center"><This is where I stick useful scripts...</p>
+<p align="center"><This is where I stick useful scripts and custom code that's sufficiently portable</p>
 
 ## Links
 
-- [Repo](https://github.com/t00r0/<project-name> "<project-name> Repo")
+- [Repo](https://github.com/t00r0/toolbox "Toolbox Repo")
 
 - [Live](<Homepage url> "Live View")
 
@@ -18,11 +18,12 @@
 
 ## Built With
 
-- Little bit of everything, mostly python though.
+- Little bit of everything, mostly Python and C/C++/C#.
 
 ## Future Updates
 
 - [ ] Add more scripts
+- [ ] Add more code from PEN-300
 
 ## Author
 

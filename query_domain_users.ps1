@@ -10,7 +10,7 @@ $Searcher.SearchRoot = $objDomain
 
 #Filter the below as needed
 #Default is to search for all user objects: SAM_USER_OBJECT 0x30000000
-#Other filters could include: $Searcher.filter="name=Jeff_Admin"
+#Other filters could include: $Searcher.filter="name=tboyle_admin"
 
 $Searcher.filter="samAccountType=805306368"
 

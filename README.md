@@ -27,7 +27,7 @@
 
 ## Author
 
-**Paul Finger**
+**t00r0**
 
 - [Profile](https://github.com/t00r0/ "Paul Finger")
 - [Email](mailto:paulmfinger@gmail.com?subject=Hi "Hi!")

@@ -1,2 +1,1 @@
-#/bin/bash
 echo "111" > /private/tmp/shortcuttesting.txt

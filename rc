@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "111" > /private/tmp/lol.txt
